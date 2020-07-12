@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently learning Rust, Julia. Loves playing games. POE, Terraria are my favorites. I am from India currently living in Tokyo, working as a Data Scientist in Rakuten Inc.
+I'm currently learning Rust, Julia. Loves playing games. POE, Terraria, Mortal Kombat are my favorites. I am from India currently living in Tokyo, working as a Data Scientist in Rakuten Inc.
 
 Some of my posts are live [here](https://kons.dev) and [here](https://katrocitus.tumblr.com)
