@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am from India currently living in Tokyo, working as a ML engineer. Proficient in Rust, Python and Go.
+I am from India currently living in Tokyo, working as a ML engineer. Proficient in Rust, Python, Scala and Go.
 
 http://hns.to/sivaram/
